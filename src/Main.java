@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
- *  What is the output of this code? (Qual é a saída deste código?)
+ *  What is the output of this code? (Qual Ã© a saÃ­da deste cÃ³digo?)
  * 
  *  1 - truefalse
  *  2 - The code does not compile
@@ -11,6 +11,11 @@ import java.util.List;
  */
 
 public class Main {
+	
+	/* +---------------------------------------------
+	 * | @author Isac Canedo
+	 * +---------------------------------------------
+	 */
 
 	public static void main(String[] args) {
 
